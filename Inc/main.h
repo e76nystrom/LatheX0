@@ -88,8 +88,8 @@
 #define JogB1_Pin GPIO_PIN_5
 #define JogB1_GPIO_Port GPIOC
 #define JogB1_EXTI_IRQn EXTI9_5_IRQn
-#define Step3_Pin GPIO_PIN_0
-#define Step3_GPIO_Port GPIOB
+#define Step4_Pin GPIO_PIN_0
+#define Step4_GPIO_Port GPIOB
 #define Pin14_Pin GPIO_PIN_1
 #define Pin14_GPIO_Port GPIOB
 #define Pin1_Pin GPIO_PIN_2
@@ -144,8 +144,8 @@
 #define I2C_Sda_GPIO_Port GPIOB
 #define Pin16_Pin GPIO_PIN_8
 #define Pin16_GPIO_Port GPIOB
-#define Step4_Pin GPIO_PIN_9
-#define Step4_GPIO_Port GPIOB
+#define Step3_Pin GPIO_PIN_9
+#define Step3_GPIO_Port GPIOB
 
 /* ########################## Assert Selection ############################## */
 /**
